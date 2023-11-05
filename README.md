@@ -5,3 +5,6 @@ grid template
   - row
 - repeat
 - minmax
+- auto-template
+- gap
+- 
