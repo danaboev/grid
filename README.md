@@ -1,4 +1,4 @@
-# grid
+# grid edu-lecture
 grid template 
 - template
   - column
@@ -7,4 +7,3 @@ grid template
 - minmax
 - auto-template
 - gap
-- 
